@@ -79,10 +79,11 @@ h3 {
 
 .img, .img img {
   /* For silky smooth scroll effects */
-  /*  transition: all, 0.01s;
+  transition: all, 0.01s;
   transition-timing-function: ease-in-out;
 }
 
+/*
 .hero {
   height: calc(var(--hero-height) + 2.5rem);
   display: flex;
