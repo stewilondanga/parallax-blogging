@@ -19,6 +19,12 @@
   --hero-height: 75vh;
 }
 
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  color: var(--body-color);
+  margin: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -47,11 +53,6 @@
 /*
 
 
-body {
-  font-family: 'Nunito Sans', sans-serif;
-  color: var(--body-color);
-  margin: 0;
-}
 
 body>* {
   padding: 0 var(--padding);
