@@ -106,13 +106,13 @@ blockquote:after {
   margin-left: 0.2em;
 }
 
-/*
 blockquote:before, blockquote:after {
   font-size: 1.5em;
   vertical-align: sub;
   font-weight: 900;
 }
 
+/*
 main {
   line-height: 2em;
   letter-spacing: 0.1px;
