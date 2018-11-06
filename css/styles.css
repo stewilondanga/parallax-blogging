@@ -133,12 +133,12 @@ footer {
   align-items: center;
 }
 
-/*footer img {
+footer img {
   opacity: 0.8;
   transition: opacity, 0.25s;
 }
 
-footer img:hover {
+/*footer img:hover {
   opacity: 1;
 }
 
