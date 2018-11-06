@@ -101,12 +101,12 @@ blockquote:before {
   margin-right: 0.2em;
 }
 
-/*
 blockquote:after {
   content: '\00201D';
   margin-left: 0.2em;
 }
 
+/*
 blockquote:before, blockquote:after {
   font-size: 1.5em;
   vertical-align: sub;
