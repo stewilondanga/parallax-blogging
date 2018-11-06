@@ -96,12 +96,12 @@ blockquote {
   font-size: 1.2em;
 }
 
-/*
 blockquote:before {
   content: '\00201C';
   margin-right: 0.2em;
 }
 
+/*
 blockquote:after {
   content: '\00201D';
   margin-left: 0.2em;
