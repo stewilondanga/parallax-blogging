@@ -83,13 +83,13 @@ h3 {
   transition-timing-function: ease-in-out;
 }
 
-/*
 .hero {
   height: calc(var(--hero-height) + 2.5rem);
   display: flex;
   align-items: flex-end;
 }
 
+/*
 blockquote {
   border-left: 5px solid;
   margin: 0;
