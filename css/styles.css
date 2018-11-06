@@ -89,7 +89,6 @@ h3 {
   align-items: flex-end;
 }
 
-/*
 blockquote {
   border-left: 5px solid;
   margin: 0;
@@ -97,6 +96,7 @@ blockquote {
   font-size: 1.2em;
 }
 
+/*
 blockquote:before {
   content: '\00201C';
   margin-right: 0.2em;
