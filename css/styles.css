@@ -8,6 +8,10 @@
   hyphens: auto;
 }
 
+::selection {
+  background: hsla(341, 48%, 75%, 1);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,9 +37,7 @@
 
 
 
-/*::selection {
-  background: hsla(341, 48%, 75%, 1);
-}
+/*
 
 :root {
   font-size: 1.3em;
