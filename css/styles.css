@@ -117,7 +117,7 @@ main {
   letter-spacing: 0.1px;
 }
 
-/*main h2:before, main h3:before {
+main h2:before, main h3:before {
   content: '';
   display: block;
   width: 10%;
@@ -125,7 +125,7 @@ main {
   padding-top: 1em;
 }
 
-footer {
+/*footer {
   min-height: 10em;
   padding: 2em;
   display: flex;
