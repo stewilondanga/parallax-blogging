@@ -125,7 +125,7 @@ main h2:before, main h3:before {
   padding-top: 1em;
 }
 
-/*footer {
+footer {
   min-height: 10em;
   padding: 2em;
   display: flex;
@@ -133,7 +133,7 @@ main h2:before, main h3:before {
   align-items: center;
 }
 
-footer img {
+/*footer img {
   opacity: 0.8;
   transition: opacity, 0.25s;
 }
