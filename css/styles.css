@@ -112,13 +112,12 @@ blockquote:before, blockquote:after {
   font-weight: 900;
 }
 
-/*
 main {
   line-height: 2em;
   letter-spacing: 0.1px;
 }
 
-main h2:before, main h3:before {
+/*main h2:before, main h3:before {
   content: '';
   display: block;
   width: 10%;
