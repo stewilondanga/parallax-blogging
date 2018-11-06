@@ -12,6 +12,13 @@
   background: hsla(341, 48%, 75%, 1);
 }
 
+:root {
+  font-size: 1.3em;
+  --body-color: #333;
+  --padding: 15vw;
+  --hero-height: 75vh;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -39,12 +46,6 @@
 
 /*
 
-:root {
-  font-size: 1.3em;
-  --body-color: #333;
-  --padding: 15vw;
-  --hero-height: 75vh;
-}
 
 body {
   font-family: 'Nunito Sans', sans-serif;
